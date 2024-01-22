@@ -1,4 +1,3 @@
-# AED_Final_Project
 
 # Donor Management System
 ### Description :
